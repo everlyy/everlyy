@@ -1,7 +1,6 @@
 <p align="center">
   <img width="100%" src="banner.png">
 </p>
-
 <!--
 **everlyy/everlyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
